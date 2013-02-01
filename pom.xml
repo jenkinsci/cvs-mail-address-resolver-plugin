@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>cvs-mail-address-resolver</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>hpi</packaging>
 
   <name>Jenkins CVS Mail Address Resolver Plug-in</name>
